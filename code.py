@@ -3,7 +3,7 @@
 # Created on: April 2022            #
 #####################################
 
-# It rotates the servo if the sensor detected a distance less than 50cm.
+# It rotates the servo if the sensor detects a distance less than 50cm.
 
 # Imports for Distance Sensor
 import time
